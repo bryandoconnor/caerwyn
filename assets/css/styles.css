@@ -1,0 +1,132 @@
+a:hover {
+  color: #f991ca;
+  text-decoration: none;
+}
+html {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.caerwyn-script-font {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+}
+.caerwyn-sans-font {
+  font-family: 'Gotu', sans-serif;
+  font-weight: 400;
+}
+.large-text {
+  font-size: 50px;
+}
+.medium-text {
+  font-size: 30px;
+}
+.small-text {
+  font-size: 20px;
+}
+.xsmall-text {
+  font-size: 10px;
+}
+.bg-primary {
+  background-color: #c38cea !important;
+}
+.bg-secondary {
+  background-color: #f991ca !important;
+}
+.bg-tertiary {
+  background-color: #adbff7 !important;
+}
+.center {
+  text-align: center;
+}
+.no-padding {
+  padding: 0px;
+}
+.no-margin {
+  margin: 0px;
+}
+.MainHero {
+  background-image: url("../img/Halloween_Wall1.jpg");
+  background-size: 250%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+.HeartContainer {
+  background-image: url("../img/Hearts_Wall1.jpg");
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.MainHero:hover {
+  background-size: 275%;
+}
+.SubHero1 {
+  background-image: url("../img/Milkshake_Wall1.jpg");
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.SubHero1:hover {
+  background-size: 125%;
+}
+.SubHero2 {
+  background-image: url("../img/Scooby_Doo_Wall1.jpg");
+  background-size: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.SubHero2:hover {
+  background-size: 125%;
+}
+.SubHero3 {
+  background-image: url("../img/Frozen_Wall1.jpg");
+  background-size: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.SubHero3:hover {
+  background-size: 125%;
+}
+.SubHero4 {
+  background-image: url("../img/Sandwich_Wall1.jpg");
+  background-size: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.SubHero4:hover {
+  background-size: 125%;
+}
+.SubHero5 {
+  background-image: url("../img/Lego_Wall1.jpg");
+  background-size: 150%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.SubHero5:hover {
+  background-size: 125%;
+}
+.card {
+  box-shadow: 2px 3px 10px #222;
+}
+.carousel-control-next {
+  background-color: #adbff7;
+  width: 30px;
+}
+.carousel-control-prev {
+  background-color: #adbff7;
+  width: 30px;
+}
+
+/*
+#c38cea
+#f991ca
+#adbff7
+#ffe6e6
+#e6ffff
+*/
+
